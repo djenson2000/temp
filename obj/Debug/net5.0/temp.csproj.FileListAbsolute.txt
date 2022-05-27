@@ -1,0 +1,16 @@
+C:\Users\drew_\OneDrive\Desktop\temp\bin\Debug\net5.0\temp.exe
+C:\Users\drew_\OneDrive\Desktop\temp\bin\Debug\net5.0\temp.deps.json
+C:\Users\drew_\OneDrive\Desktop\temp\bin\Debug\net5.0\temp.runtimeconfig.json
+C:\Users\drew_\OneDrive\Desktop\temp\bin\Debug\net5.0\temp.runtimeconfig.dev.json
+C:\Users\drew_\OneDrive\Desktop\temp\bin\Debug\net5.0\temp.dll
+C:\Users\drew_\OneDrive\Desktop\temp\bin\Debug\net5.0\temp.pdb
+C:\Users\drew_\OneDrive\Desktop\temp\obj\Debug\net5.0\temp.csproj.AssemblyReference.cache
+C:\Users\drew_\OneDrive\Desktop\temp\obj\Debug\net5.0\temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drew_\OneDrive\Desktop\temp\obj\Debug\net5.0\temp.AssemblyInfoInputs.cache
+C:\Users\drew_\OneDrive\Desktop\temp\obj\Debug\net5.0\temp.AssemblyInfo.cs
+C:\Users\drew_\OneDrive\Desktop\temp\obj\Debug\net5.0\temp.csproj.CoreCompileInputs.cache
+C:\Users\drew_\OneDrive\Desktop\temp\obj\Debug\net5.0\temp.dll
+C:\Users\drew_\OneDrive\Desktop\temp\obj\Debug\net5.0\refint\temp.dll
+C:\Users\drew_\OneDrive\Desktop\temp\obj\Debug\net5.0\temp.pdb
+C:\Users\drew_\OneDrive\Desktop\temp\obj\Debug\net5.0\temp.genruntimeconfig.cache
+C:\Users\drew_\OneDrive\Desktop\temp\obj\Debug\net5.0\ref\temp.dll
